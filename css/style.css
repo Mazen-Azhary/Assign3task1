@@ -1,0 +1,59 @@
+body {
+  background-image: url('../img/Healthy-Packaged-Food.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 70px;
+}
+nav {
+  margin-top: 0px;
+  background-position-y: top;
+}
+
+h2 {
+  color: blue;
+  font-size: 45px;
+  text-align: center;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.productcont {
+  /* background-image: url(../img/smarketbg.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat; */
+  background-color: #e4295d;
+  width: 25%;
+  display: inline-block;
+
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.productimg {
+  width: 175px;
+  height: 200px;
+  display: block;
+  padding-left: 100px;
+  padding-top: 10px;
+  
+}
+.h1 {
+  text-align: center;
+  display: block;
+}
+button {
+  background-color: #8f8ac0;
+  color: #171435;
+}
+button:hover {
+  background-color: #f59e0b;
+  color: #631900;
+}
+span {
+  display: inline-block;
+  width: 20%;
+  
+}
